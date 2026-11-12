@@ -1,5 +1,5 @@
 #include <stdio.h>
-//아무거나 하는거지//ddkdkdkdk//
+//아무
 int main(void) 
 {
     int menu;
